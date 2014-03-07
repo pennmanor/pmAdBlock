@@ -1,0 +1,1 @@
+ext.onMessage = new MessageEventTarget();

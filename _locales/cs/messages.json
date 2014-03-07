@@ -1,0 +1,290 @@
+{
+  "add": {
+    "message": "Přidat"
+  },
+  "add_domain_button": {
+    "message": "Přidat doménu"
+  },
+  "add_filter_button": {
+    "message": "Přidat filtr"
+  },
+  "add_filters_msg": {
+    "message": "Přidat filtr(y)?"
+  },
+  "add_your_own_filters": {
+    "message": "Přidejte své vlastní filtry"
+  },
+  "apply_changes": {
+    "message": "Použít změny"
+  },
+  "block_element": {
+    "message": "Blokovat prvek"
+  },
+  "cancel": {
+    "message": "Zrušit"
+  },
+  "clickhide_instructions": {
+    "message": "Po zavření tohoto vyskakovacího okna, klikněte levým (nebo pravým) tlačítkem myši na element na stránce."
+  },
+  "description_chrome": {
+    "message": "Bezplatný nástroj adblock pro Chrome: Bloky nepříjemné video reklamy na YouTube, Facebook reklamy, bannery a ještě mnohem více."
+  },
+  "description_opera": {
+    "message": "Volný adblock nástroj pro Operu: Bloky nepříjemné video reklamy na YouTube, Facebook reklamy, bannery a ještě mnohem více."
+  },
+  "description_safari": {
+    "message": "Volný adblock nástroj pro Safari: Bloky nepříjemné video reklamy na YouTube, Facebook reklamy, bannery a ještě mnohem více."
+  },
+  "disable_inline": {
+    "message": "Zakázat \"inline text\" reklamy"
+  },
+  "disabled_for_site": {
+    "message": "<strong>Vypnuto</strong> na této stránce"
+  },
+  "disabled_for_these_domains": {
+    "message": "Adblock Plus je zakázán pro domény uvedeny níže. Můžete přidat doménu buďto ikonou Adblock Plus v adresové liště nebo napsáním domény ( ne URL) do textového pole a kliknutím na tlačítko \"Přidat doménu\"."
+  },
+  "easy_create_filter": {
+    "message": "Blok prvek"
+  },
+  "edit_filters_raw": {
+    "message": "Upravit filtry jako běžný text"
+  },
+  "enable_only_the": {
+    "message": "Povolit pouze seznamů filtrů, které potřebujete. Příliš mnoho může, aby váš prohlížeč nereaguje."
+  },
+  "enabled_for_site": {
+    "message": "<strong>Zapnuto</strong> na této stránce"
+  },
+  "filter_lists": {
+    "message": "Seznam filtrů"
+  },
+  "filter_must_follow_syntax": {
+    "message": "Váš filtr musí obsahovat <a>Filtrovou syntaxi Adblocku Plus</a>."
+  },
+  "filters_acceptableAds2_label": {
+    "message": "Povolit některé nerušivé reklamy"
+  },
+  "filters_addSubscriptionAdd_label": {
+    "message": "Přidat"
+  },
+  "filters_addSubscriptionOther_label": {
+    "message": "Přidat další sadu cizích filtrů"
+  },
+  "filters_addSubscription_label": {
+    "message": "Přidat cizí filtry"
+  },
+  "filters_readMore_label": {
+    "message": "Zjistit více"
+  },
+  "filters_subscription_delete_label": {
+    "message": "Smazat"
+  },
+  "filters_subscription_enabled_label": {
+    "message": "Povoleno"
+  },
+  "filters_subscription_lastDownload_checksumMismatch": {
+    "message": "Chyba, neodpovídá kontrolní součet"
+  },
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "Chyba, nepodařilo se stáhnout soubor"
+  },
+  "filters_subscription_lastDownload_inProgress": {
+    "message": "Stahuji..."
+  },
+  "filters_subscription_lastDownload_invalidData": {
+    "message": "Chyba, stažený soubor není souborem filtrů Adblock Plus"
+  },
+  "filters_subscription_lastDownload_invalidURL": {
+    "message": "Chyba, toto je nekorektní adresa."
+  },
+  "filters_viewList_label": {
+    "message": "Zobrazit seznam"
+  },
+  "firstRun_acceptableAdsExplanation": {
+    "message": "Rádi bychom podpořili webové stránky v používání jasné neobtěžující reklamy. Proto jsme zavedli <a>přísná pravidla</a> k určení přijatelných reklam, které se pak ve výchozím nastavení zobrazují . Pokud přesto chcete blokovat veškerou reklamu, můžete toto během chvilky <a>zakázat</a>."
+  },
+  "firstRun_acceptableAdsHeadline": {
+    "message": "Otravné reklamy budou nyní blokovány"
+  },
+  "firstRun_contributor_credits": {
+    "message": "Zásluhy přispěvatelů"
+  },
+  "firstRun_dataCorruptionWarning": {
+    "message": "Neustále se Vám tato stránka znovu zobrazuje? <a>Klikněte zde!</a>"
+  },
+  "firstRun_donate": {
+    "message": "přispějte"
+  },
+  "firstRun_donate_label": {
+    "message": "Podpořte náš projekt"
+  },
+  "firstRun_feature_malware": {
+    "message": "Blokování malware"
+  },
+  "firstRun_feature_malware_description": {
+    "message": "Blokováním známých malwarových domén učiňte Vaše prohlížení webu bezpečnějším."
+  },
+  "firstRun_feature_show_expanded": {
+    "message": "Aktivovat funkce"
+  },
+  "firstRun_feature_show_overview": {
+    "message": "Zobrazit přehled"
+  },
+  "firstRun_feature_social": {
+    "message": "Odstranit tlačítka sociálních médií"
+  },
+  "firstRun_feature_social_description": {
+    "message": "Automaticky zbavte své surfování od tlačítek sociálních médií, jako například Facebook \"To se mi líbí\", která se objevují na webových stránkách a sledují Vaše chování."
+  },
+  "firstRun_feature_tracking": {
+    "message": "Zakázat sledování"
+  },
+  "firstRun_feature_tracking_description": {
+    "message": "Zakázáním sledování si zachovejte soukromí při prohlížení - zakryjte své stopy před reklamními společnostmi, které by jinak sladovali každičký Váš pohyb."
+  },
+  "firstRun_features": {
+    "message": "Adblock Plus toho umí více než jen blokovat reklamy"
+  },
+  "firstRun_legacySafariWarning": {
+    "message": "Používáte starou verzi Safari, která není podporovaná Adblockem Plus. Nemusí to tak správně fungovat nebo to může zhoršit použitelnost na některých webových stránkách. Důrazně doporučujeme buď aktualizovat na Safari 6.1.1 či vyšší (v OS X 10.8 Mountain Lion), nebo Safari 7.0.1 či vyšší (v OS X 10.9 Mavericks), nebo používat nejnovější verzi Mozilla Firefoxu, Google Chrome či Opery."
+  },
+  "firstRun_share": {
+    "message": "Řekněte svým přátelům"
+  },
+  "firstRun_share_headline": {
+    "message": "<a>Pomožte nám</a> učinit web lepším"
+  },
+  "firstRun_title": {
+    "message": "Adblock Plus byl nainstalován"
+  },
+  "firstRun_toggle_off": {
+    "message": "VYPNUTO"
+  },
+  "firstRun_toggle_on": {
+    "message": "ZAPNUTO"
+  },
+  "found_a_bug": {
+    "message": "Našli jste chybu? Chcete přeložit Adblock Plus do vašeho jazyka? Prosím <a>vyplňte žádost zde</a>."
+  },
+  "general": {
+    "message": "Obecné"
+  },
+  "global_remove_subscription_warning": {
+    "message": "Skutečně si přejete odstranit tuto sadu cizích filtrů ?"
+  },
+  "global_subscription_invalid_location": {
+    "message": "Zadaná adresa seznamu cizích filtrů je buď nesprávná URL nebo obsahuje nesprávné jméno souboru."
+  },
+  "last_updated_at": {
+    "message": "Naposled aktualizováno v $time$ $date$",
+    "placeholders": {
+      "date": {
+        "content": "$2"
+      },
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "last_updated_at_today": {
+    "message": "Naposled aktualizováno dnes v $time$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "name": {
+    "message": "Adblock Plus"
+  },
+  "options": {
+    "message": "Možnosti Adblock Plus"
+  },
+  "options_short": {
+    "message": "Možnosti"
+  },
+  "out_of_date_lists": {
+    "message": "Zastaralé seznamy jsou pravidelně aktualizovány."
+  },
+  "overlay_hideplaceholders_label": {
+    "message": "Skrýt zástupné objekty blokovaných prvků"
+  },
+  "remove_button": {
+    "message": "Odebrat vybrané"
+  },
+  "show_block_element_menu": {
+    "message": "Ukázat 'Blokovat Element' v menu při kliknutí pravým tlačítkem myši"
+  },
+  "show_icon": {
+    "message": "Zobrazit ikonu v adresním řádku"
+  },
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> na této stránce",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_label_total": {
+    "message": "celkem <strong>$number$</strong>",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_over": {
+    "message": "$number$",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_download": {
+    "message": "Stáhnout Adblock Plus"
+  },
+  "stats_share_label_fb": {
+    "message": "Sdílet na Facebooku"
+  },
+  "stats_share_label_gplus": {
+    "message": "Sdílet na Google+"
+  },
+  "stats_share_label_twitter": {
+    "message": "Sdílet na Twitteru"
+  },
+  "stats_share_message": {
+    "message": "Zablokoval jsem $number$ reklam a slídilů díky Adblocku Plus.",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_title": {
+    "message": "Podíl těchto čísel"
+  },
+  "stats_show_iconnumber": {
+    "message": "Zobrazit číslo na ikoně"
+  },
+  "stats_title": {
+    "message": "Blokované reklamy"
+  },
+  "subscriptionSelection_location_label": {
+    "message": "Umístění sady filtrů:"
+  },
+  "subscriptionSelection_subscriptionSelector_label": {
+    "message": "Prosím vyberte sadu filtrů ze seznamu:"
+  },
+  "subscriptionSelection_title_label": {
+    "message": "Označení cizích filtrů:"
+  },
+  "update_now": {
+    "message": "Aktualizovat nyní"
+  },
+  "whitelisted_domains": {
+    "message": "Povolené domény"
+  }
+}

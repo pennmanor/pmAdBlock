@@ -1,0 +1,290 @@
+{
+  "add": {
+    "message": "Добави"
+  },
+  "add_domain_button": {
+    "message": "Добави домейна"
+  },
+  "add_filter_button": {
+    "message": "Добави филтър"
+  },
+  "add_filters_msg": {
+    "message": "Добавяне на филтърa/филтрите?"
+  },
+  "add_your_own_filters": {
+    "message": "Собствени филтри"
+  },
+  "apply_changes": {
+    "message": "Приложи промените"
+  },
+  "block_element": {
+    "message": "Блокирай елемента"
+  },
+  "cancel": {
+    "message": "Отказ"
+  },
+  "clickhide_instructions": {
+    "message": "След като затворите този изскачащ прозорец, натиснете (или щракнете с десния бутон) върху елемент в страницата."
+  },
+  "description_chrome": {
+    "message": "Безплатният инструмент за блокиране на реклами в Chrome: блокира досадните реклами в клиповете на YouTube, рекламите във Facebook,…"
+  },
+  "description_opera": {
+    "message": "Безплатен инструмент за блокиране на реклами в Opera: блокира досадните реклами в клиповете на YouTube, рекламите във Facebook, банерите и много други."
+  },
+  "description_safari": {
+    "message": "Безплатен инструмент за блокиране на реклами в Safari: блокира досадните реклами в клиповете на YouTube, рекламите във Facebook, банерите и много други."
+  },
+  "disable_inline": {
+    "message": "Забрани вложените текстови реклами"
+  },
+  "disabled_for_site": {
+    "message": "<strong>Забранено</strong> за сайта"
+  },
+  "disabled_for_these_domains": {
+    "message": "Adblock Plus е забранен за домейните от долния списък. Добавянето на домейн става или чрез иконата на Adblock Plus в адресната лента или чрез въвеждане на домейна (но на целия URL) в полето и натискане на бутон „Добави домейна“."
+  },
+  "easy_create_filter": {
+    "message": "Блокиране на елемент"
+  },
+  "edit_filters_raw": {
+    "message": "Редактиране на филтри като суров текст"
+  },
+  "enable_only_the": {
+    "message": "Разрешете само необходимите филтри. Колкото повече са, толкова по-бавно ще работи вашият браузър."
+  },
+  "enabled_for_site": {
+    "message": "<strong>Разрешено</strong> за сайта"
+  },
+  "filter_lists": {
+    "message": "Списъци с филтри"
+  },
+  "filter_must_follow_syntax": {
+    "message": "Вашият филтър трябва да спазва <a>синтаксиса за филтри на Adblock Plus</a>."
+  },
+  "filters_acceptableAds2_label": {
+    "message": "Оставете някои не натрапчиви реклами"
+  },
+  "filters_addSubscriptionAdd_label": {
+    "message": "Добави"
+  },
+  "filters_addSubscriptionOther_label": {
+    "message": "Добави друг абонамент"
+  },
+  "filters_addSubscription_label": {
+    "message": "Добави абонамент за филтър"
+  },
+  "filters_readMore_label": {
+    "message": "Прочети повече"
+  },
+  "filters_subscription_delete_label": {
+    "message": "Изтрий"
+  },
+  "filters_subscription_enabled_label": {
+    "message": "Включен"
+  },
+  "filters_subscription_lastDownload_checksumMismatch": {
+    "message": "Грешка, несъвпадение на контролната сума"
+  },
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "Грешка, неуспешно изтегляне"
+  },
+  "filters_subscription_lastDownload_inProgress": {
+    "message": "Изтегляне..."
+  },
+  "filters_subscription_lastDownload_invalidData": {
+    "message": "Грешка, невалиден списък с филтри"
+  },
+  "filters_subscription_lastDownload_invalidURL": {
+    "message": "Грешка, невалиден адрес"
+  },
+  "filters_viewList_label": {
+    "message": "Виж лист"
+  },
+  "firstRun_acceptableAdsExplanation": {
+    "message": "Бихме искали да насърчаваме уеб-сайтовете да използват обикновена, ненатрапчива реклама. Ето защо ние установихме <a>строги насоки</a>, където можете да видите кои са приемливите реклами, които се показват по подразбиране. Ако все още искате да блокирате всички реклами, можете да ги <a>забраните</a> в рамките на няколко секунди."
+  },
+  "firstRun_acceptableAdsHeadline": {
+    "message": "Досадните реклами ще бъдат блокирани"
+  },
+  "firstRun_contributor_credits": {
+    "message": "Сътрудници"
+  },
+  "firstRun_dataCorruptionWarning": {
+    "message": "Страницата продължава да се показва? <a>Щракнете тук!</a>"
+  },
+  "firstRun_donate": {
+    "message": "дарение"
+  },
+  "firstRun_donate_label": {
+    "message": "Подкрепете нашия проект"
+  },
+  "firstRun_feature_malware": {
+    "message": "Блокиране на зловреден софтуер"
+  },
+  "firstRun_feature_malware_description": {
+    "message": "Направете своето сърфиране в Интернет по-безопасно чрез блокиране на зловредни домейни."
+  },
+  "firstRun_feature_show_expanded": {
+    "message": "активиране на функции"
+  },
+  "firstRun_feature_show_overview": {
+    "message": "Преглед"
+  },
+  "firstRun_feature_social": {
+    "message": "Премахване на бутоните на социалните мрежи"
+  },
+  "firstRun_feature_social_description": {
+    "message": "Автоматично премахва от страниците в браузъра бутоните на социалните медии, като например тези на Facebook, които се появяват на някои уеб страници и проследяват вашето поведение."
+  },
+  "firstRun_feature_tracking": {
+    "message": "Забраняване на проследяването"
+  },
+  "firstRun_feature_tracking_description": {
+    "message": "Сърфирайте поверително като забраните проследяването - прикрива вашите действия от рекламните компании, които биха проследили всеки Ваш ход."
+  },
+  "firstRun_features": {
+    "message": "Adblock Plus може да прави повече от блокиране на реклами"
+  },
+  "firstRun_legacySafariWarning": {
+    "message": "Вие използвате стара версия на Safari, която не се поддържа от Adblock Plus. В случая Adblock Plus може да не работи коректно, като е възможно да се наруши работата на потребителите в някои уеб сайтове. Ние силно препоръчваме да актуализирате Safari към версия 6 или по-висока (достъпна за Mac OS X 10.8 Mountain Lion и по-висока), или да използвате последната версия на Mozilla Firefox, Google Chrome или Opera."
+  },
+  "firstRun_share": {
+    "message": "Кажете на приятелите си"
+  },
+  "firstRun_share_headline": {
+    "message": "<a>Помогнете ни</a> и направете мрежата по-добро място"
+  },
+  "firstRun_title": {
+    "message": "Adblock Plus е инсталиран"
+  },
+  "firstRun_toggle_off": {
+    "message": "ИЗКЛ"
+  },
+  "firstRun_toggle_on": {
+    "message": "ВКЛ"
+  },
+  "found_a_bug": {
+    "message": "Открихте грешка? Искате да преведете Adblock Plus на вашия език? Моля, <a>попълнете тази заявка</a>."
+  },
+  "general": {
+    "message": "Общи"
+  },
+  "global_remove_subscription_warning": {
+    "message": "Наистина ли искате да премахнете този абонамент?"
+  },
+  "global_subscription_invalid_location": {
+    "message": "Местоположението на списъка с филтри или не е валиден URL или не е валидно името на файла."
+  },
+  "last_updated_at": {
+    "message": "Последно обновен на $date$ в $time$",
+    "placeholders": {
+      "date": {
+        "content": "$2"
+      },
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "last_updated_at_today": {
+    "message": "Последно обновен днес в $time$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "name": {
+    "message": "Adblock Plus"
+  },
+  "options": {
+    "message": "Настройки на Adblock Plus"
+  },
+  "options_short": {
+    "message": "Настройки"
+  },
+  "out_of_date_lists": {
+    "message": "Остарелите списъци се обновяват периодично."
+  },
+  "overlay_hideplaceholders_label": {
+    "message": "Скрий контейнери на блокираните елементи"
+  },
+  "remove_button": {
+    "message": "Премахни избрания"
+  },
+  "show_block_element_menu": {
+    "message": "Показвай „Блокирай елемента“ в контекстното меню"
+  },
+  "show_icon": {
+    "message": "Показвай иконата в адресната лента"
+  },
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> — в страницата",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_label_total": {
+    "message": "<strong>$number$</strong> — всичко",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_over": {
+    "message": "над $number$",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_download": {
+    "message": "Изтегли Adblock Plus"
+  },
+  "stats_share_label_fb": {
+    "message": "Сподели във Facebook"
+  },
+  "stats_share_label_gplus": {
+    "message": "Подели във Google+"
+  },
+  "stats_share_label_twitter": {
+    "message": "Сподели във Twitter"
+  },
+  "stats_share_message": {
+    "message": "Благодарение на Adblock Plus са блокирани $number$ реклами и проследявания.",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_title": {
+    "message": "Сподели броя на блокираните"
+  },
+  "stats_show_iconnumber": {
+    "message": "Показвай броя на блокираните в иконата"
+  },
+  "stats_title": {
+    "message": "Блокирани реклами"
+  },
+  "subscriptionSelection_location_label": {
+    "message": "Местоположение на списъка с филтрите:"
+  },
+  "subscriptionSelection_subscriptionSelector_label": {
+    "message": "Моля, посочете абонамент за филтър от списъка:"
+  },
+  "subscriptionSelection_title_label": {
+    "message": "Заглавие на абонамента:"
+  },
+  "update_now": {
+    "message": "Обнови сега"
+  },
+  "whitelisted_domains": {
+    "message": "Бял списък с домейни"
+  }
+}

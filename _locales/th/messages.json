@@ -1,0 +1,248 @@
+{
+  "add": {
+    "message": "เพิ่ม"
+  },
+  "add_domain_button": {
+    "message": "เพิ่มโดเมน"
+  },
+  "add_filter_button": {
+    "message": "เพิ่มตัวกรอง"
+  },
+  "add_filters_msg": {
+    "message": "เพิ่มตัวกรองหรือไม่?"
+  },
+  "add_your_own_filters": {
+    "message": "เพิ่มตัวกรองของคุณเอง"
+  },
+  "apply_changes": {
+    "message": "นำการเปลี่ยนแปลงไปใช้"
+  },
+  "block_element": {
+    "message": "ปิดกั้นองค์ประกอบ"
+  },
+  "cancel": {
+    "message": "ยกเลิก"
+  },
+  "clickhide_instructions": {
+    "message": "หลังจากปิดนี้ผุดขึ้น คลิก (หรือคลิกขวา) องค์ประกอบบนเพจ"
+  },
+  "description_chrome": {
+    "message": "โปรแกรมบล็อกโฆษณาฟรีสำหรับ Chrome: บล็อกโฆษณาที่น่ากวนใจต่างๆทั้ง คลิปโฆษณาของ YouTube,โฆษณาบน Facebook, แบนเนอร์บนเว็บ และอื่นๆอีก…"
+  },
+  "description_opera": {
+    "message": "เครื่องมือบล็อกโฆษณาสำหรับ Safari: บล็อกโฆษณาต่างๆเช่น คลิปโฆษณาบน Youtube, โฆษณาของ Facebook, ป้ายแบนเนอน์ต่างๆ และอื่นๆอีกมากมาย."
+  },
+  "description_safari": {
+    "message": "เครื่องมือบล็อกโฆษณาสำหรับ Safari: บล็อกโฆษณาต่างๆเช่น คลิปโฆษณาบน Youtube, โฆษณาของ Facebook, ป้ายแบนเนอน์ต่างๆ และอื่นๆอีกมากมาย"
+  },
+  "disable_inline": {
+    "message": "ปิดใช้งานข้อความโฆษณาแบบในบรรทัด"
+  },
+  "disabled_for_site": {
+    "message": "<strong>เปิด</strong>บนเว็บไซต์นี้"
+  },
+  "disabled_for_these_domains": {
+    "message": "Adblock Plus ถูกปิดใช้งานสำหรับโดเมนที่แสดงอยู่ด้านล่าง คุณสามารถเพิ่มโดเมนได้ ผ่านไอคอน Adblock Plus ในแถบที่อยู่ หรือโดยพิมพ์โดเมน (ไม่ใช่ URL) ในกล่อง และคลิกปุ่ม \"เพิ่มโดเมน\""
+  },
+  "easy_create_filter": {
+    "message": "ปิดกั้นองค์ประกอบ"
+  },
+  "edit_filters_raw": {
+    "message": "แก้ไขตัวกรองเป็นข้อความดิบ"
+  },
+  "enable_only_the": {
+    "message": "เปิดใช้งานเฉพาะรายการตัวกรองคุณต้องการ เกินไปมากจะทำให้เบราว์เซอร์ของคุณไม่ตอบสนองได้"
+  },
+  "enabled_for_site": {
+    "message": "<strong>เปิด</strong>บนเว็บไซต์นี้"
+  },
+  "filter_lists": {
+    "message": "รายชื่อตัวกรอง"
+  },
+  "filter_must_follow_syntax": {
+    "message": "ตัวกรองของคุณต้องตรงตาม<a>ไวยากรณ์ตัวกรอง Adblock Plus</a>"
+  },
+  "filters_acceptableAds2_label": {
+    "message": "อนุญาตให้มีโฆษณาบางอย่างที่ไม่ต้องการรบกวน"
+  },
+  "filters_addSubscriptionAdd_label": {
+    "message": "เพิ่ม"
+  },
+  "filters_addSubscriptionOther_label": {
+    "message": "เพิ่มนามข้างท้าย"
+  },
+  "filters_addSubscription_label": {
+    "message": "เพิ่มนามข้างท้ายตัวกรอง"
+  },
+  "filters_readMore_label": {
+    "message": "อ่านเพิ่มเติม"
+  },
+  "filters_subscription_delete_label": {
+    "message": "ลบ"
+  },
+  "filters_subscription_enabled_label": {
+    "message": "เปิดใช้งาน"
+  },
+  "filters_subscription_lastDownload_checksumMismatch": {
+    "message": "ล้มเหลว checksum จับผิดคู่"
+  },
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "ล้มเหลว การดาวน์โหลดล้มเหลว"
+  },
+  "filters_subscription_lastDownload_inProgress": {
+    "message": "กำลังดาวน์โหลด..."
+  },
+  "filters_subscription_lastDownload_invalidData": {
+    "message": "ล้มเหลว ไม่มีรายชื่อตัวกรองที่ถูกต้อง"
+  },
+  "filters_subscription_lastDownload_invalidURL": {
+    "message": "ล้มเหลว ไม่มีที่อยู่ที่ถูกต้อง"
+  },
+  "filters_viewList_label": {
+    "message": "มุมมองรายการ"
+  },
+  "firstRun_dataCorruptionWarning": {
+    "message": "ไม่ให้หน้านี้แสดงอีกครั้ง <a>คลิกที่นี้</a>"
+  },
+  "firstRun_feature_malware": {
+    "message": "บล็อกมัลแวร์"
+  },
+  "firstRun_feature_social": {
+    "message": "ลบปุ่มสื่อสังคมออก"
+  },
+  "firstRun_feature_tracking": {
+    "message": "ปิดระบบติดตามการใข้งาน"
+  },
+  "firstRun_title": {
+    "message": "กาติดตั้ง Adblock Plus เสร็จสมบูรณ์"
+  },
+  "firstRun_toggle_off": {
+    "message": "ไม่ทำงาน"
+  },
+  "firstRun_toggle_on": {
+    "message": "ทำงาน"
+  },
+  "found_a_bug": {
+    "message": "เจอบักงั้นหรอ? หรือต้องการแปล Adblock Plus เป็นภาษาของคุณเอง? <a>ยื่นคำร้องได้ที่นี่</a>"
+  },
+  "general": {
+    "message": "ทั่วไป"
+  },
+  "global_remove_subscription_warning": {
+    "message": "คุณแน่ใจหรือว่าต้องการลบนามข้างท้ายนี้"
+  },
+  "global_subscription_invalid_location": {
+    "message": "ตำแหน่งรายชื่อตัวกรองไม่ใช่ทั้งยูอาร์แอลที่ถูกต้องและชื่อไฟล์ที่ถูกต้อง"
+  },
+  "last_updated_at": {
+    "message": "อัปเดตล่าสุดเมื่อ $date$ เวลา $time$",
+    "placeholders": {
+      "date": {
+        "content": "$2"
+      },
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "last_updated_at_today": {
+    "message": "อัปเดตล่าสุดเมื่อวันนี้ เวลา $time$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "name": {
+    "message": "Adblock Plus"
+  },
+  "options": {
+    "message": "ตัวเลือกของ Adblock Plus"
+  },
+  "options_short": {
+    "message": "ตัวเลือก"
+  },
+  "out_of_date_lists": {
+    "message": "รายการที่ล้าสมัยจะได้รับการอัปเดตเป็นระยะ ๆ"
+  },
+  "overlay_hideplaceholders_label": {
+    "message": "ซ่อนตำแหน่งตัวยึดตำแหน่งขององค์ประกอบที่ถูกบล็อคไว้"
+  },
+  "remove_button": {
+    "message": "ลบสิ่งที่เลือก"
+  },
+  "show_block_element_menu": {
+    "message": "แสดงรายการในเมนูคลิกขวา \"ปิดกั้นองค์ประกอบ\""
+  },
+  "show_icon": {
+    "message": "แสดงไอคอนในแถบที่อยู่"
+  },
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> ในหน้านี้",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_label_total": {
+    "message": "รวม <strong>$number$</strong> อย่าง",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_over": {
+    "message": "มากกว่า $number$",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_download": {
+    "message": "ดาวน์โหลด Adblock Plus"
+  },
+  "stats_share_label_fb": {
+    "message": "แบ่งปันบน Facebook"
+  },
+  "stats_share_label_gplus": {
+    "message": "แบ่งปันบน Google+"
+  },
+  "stats_share_label_twitter": {
+    "message": "แบ่งปันบน Twitter"
+  },
+  "stats_share_message": {
+    "message": "ฉันบล็อกโฆษณาและแทร็คเกอร์ไป $number$ อย่าง ขอบคุณ Adblock Plus",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_title": {
+    "message": "ใช้ตัวเลขเหล่านี้"
+  },
+  "stats_show_iconnumber": {
+    "message": "แสดงหมายเลขในไอคอน"
+  },
+  "stats_title": {
+    "message": "บล็อกโฆษณา"
+  },
+  "subscriptionSelection_location_label": {
+    "message": "ที่อยู่รายชื่อตัวกรอง:"
+  },
+  "subscriptionSelection_subscriptionSelector_label": {
+    "message": "กรุณาเลือกนามข้างท้ายตัวกรองจากรายชื่อ:"
+  },
+  "subscriptionSelection_title_label": {
+    "message": "ชื่อ:"
+  },
+  "update_now": {
+    "message": "อัปเดตเลย"
+  },
+  "whitelisted_domains": {
+    "message": "โดเมนที่ขึ้นบัญชีขาว"
+  }
+}

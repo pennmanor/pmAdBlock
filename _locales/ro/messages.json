@@ -1,0 +1,290 @@
+{
+  "add": {
+    "message": "Adaugă"
+  },
+  "add_domain_button": {
+    "message": "Adaugă domeniu"
+  },
+  "add_filter_button": {
+    "message": "Adaugă filtru"
+  },
+  "add_filters_msg": {
+    "message": "Adaugă filtre?"
+  },
+  "add_your_own_filters": {
+    "message": "Adaugă propriile filtre"
+  },
+  "apply_changes": {
+    "message": "Aplică modificările"
+  },
+  "block_element": {
+    "message": "Blochează Elementul"
+  },
+  "cancel": {
+    "message": "Anulează"
+  },
+  "clickhide_instructions": {
+    "message": "După închiderea acestui pop-up, clic (sau clic-dreapta) pe un element de pe pagină."
+  },
+  "description_chrome": {
+    "message": "Adblock Plus pentru Chrome: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si mu…"
+  },
+  "description_opera": {
+    "message": "Adblock Plus pentru Opera: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si multe altele."
+  },
+  "description_safari": {
+    "message": "Adblock Plus pentru Safari: instrument gratuit care blocheaza agasantele reclame video pe YouTube, reclamele Facebook, banere si multe altele."
+  },
+  "disable_inline": {
+    "message": "Dezactivează inserturile publicitare de tip text"
+  },
+  "disabled_for_site": {
+    "message": "<strong>Dezactivat</strong> pe acest site"
+  },
+  "disabled_for_these_domains": {
+    "message": "Adblock Plus este dezactivat pentru domeniile listate mai jos. Poți adăuga un domeniu folosind iconița Adblock Plus in bara de adrese sau scriind domeniul (nu URL-ul) in spațiul de mai jos și făcând clic pe butonul \"Adaugă domeniu\"."
+  },
+  "easy_create_filter": {
+    "message": "Blochează elementul"
+  },
+  "edit_filters_raw": {
+    "message": "Editor filtre în mod text"
+  },
+  "enable_only_the": {
+    "message": "Folosiţi doar listele de filtre de care aveţi nevoie. Prea multe vor afecta browser-ul."
+  },
+  "enabled_for_site": {
+    "message": "<strong>Activat</strong> pe acest site"
+  },
+  "filter_lists": {
+    "message": "Liste de filtre"
+  },
+  "filter_must_follow_syntax": {
+    "message": "Filtrul tău trebuie să respecte <a> sintaxa Adblock Plus pentru filtre</a>."
+  },
+  "filters_acceptableAds2_label": {
+    "message": "Permite publicitatea discretă"
+  },
+  "filters_addSubscriptionAdd_label": {
+    "message": "Adaugă"
+  },
+  "filters_addSubscriptionOther_label": {
+    "message": "Adaugă alt abonament"
+  },
+  "filters_addSubscription_label": {
+    "message": "Adaugă abonament filtru"
+  },
+  "filters_readMore_label": {
+    "message": "Citește mai mult"
+  },
+  "filters_subscription_delete_label": {
+    "message": "Șterge"
+  },
+  "filters_subscription_enabled_label": {
+    "message": "Activat"
+  },
+  "filters_subscription_lastDownload_checksumMismatch": {
+    "message": "Eşuat, suma de control nu se potriveşte."
+  },
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "Eşuat, descărcare nereuşită"
+  },
+  "filters_subscription_lastDownload_inProgress": {
+    "message": "Descărcare..."
+  },
+  "filters_subscription_lastDownload_invalidData": {
+    "message": "Eşuat, lista nu este validă"
+  },
+  "filters_subscription_lastDownload_invalidURL": {
+    "message": "Eşuat, adresa nu este validă"
+  },
+  "filters_viewList_label": {
+    "message": "Afişare listă"
+  },
+  "firstRun_acceptableAdsExplanation": {
+    "message": "Dorim să încurajăm site-urile web în a utiliza publicitate simplă, discretă. De aceea ne-am stabilit <a>reguli de orientare stricte</a> pentru a identifica anunțurile acceptabile, care sunt permise de către setările implicite. Dacă totuși doriți să bloca toată publicitatea, puteți <a>dezactiva</a> aceste permisiuni în câteva secunde."
+  },
+  "firstRun_acceptableAdsHeadline": {
+    "message": "Reclamele enervante vor fi blocate acum"
+  },
+  "firstRun_contributor_credits": {
+    "message": "Contributori"
+  },
+  "firstRun_dataCorruptionWarning": {
+    "message": "Această pagină continuă să apară și după terminarea instalării? <a>Faceți clic aici!</a>"
+  },
+  "firstRun_donate": {
+    "message": "Donaţii"
+  },
+  "firstRun_donate_label": {
+    "message": "Ajutați proiectul"
+  },
+  "firstRun_feature_malware": {
+    "message": "Blocare software rău intenţionat"
+  },
+  "firstRun_feature_malware_description": {
+    "message": "Securizarea navigării prin blocarea domeniilor rău-intenționate cunoscute."
+  },
+  "firstRun_feature_show_expanded": {
+    "message": "Activează funcționalități"
+  },
+  "firstRun_feature_show_overview": {
+    "message": "Arată o privire de ansamblu"
+  },
+  "firstRun_feature_social": {
+    "message": "Ascundere butoane Social Media"
+  },
+  "firstRun_feature_social_description": {
+    "message": "Eliminare automată a butoanelor mass-media socială, cum ar fi Facebook, care apar pe paginile de web pentru a urmări și înregistra comportamentul dumneavoastră."
+  },
+  "firstRun_feature_tracking": {
+    "message": "Dezactivare urmărire"
+  },
+  "firstRun_feature_tracking_description": {
+    "message": "Navigare fără urme prin eliminarea indiciilor plantate de către companiile publicitare care urmăresc și înregistrează comportamentul dumneavoastră."
+  },
+  "firstRun_features": {
+    "message": "Adblock Plus poate face mai mult decât să blocheze publicitatea"
+  },
+  "firstRun_legacySafariWarning": {
+    "message": "Folosiți o versiune veche de Safari care nu este suportată de Adblock Plus. Aceasta putea funcționa incorect sau ar putea afecta navigarea pe unele site-uri. Vă recomandăm insistent să instalați cel puțin Safari 6.1.1 (pe sistemul de operare Mac OS X 10.8 Mountain Lion), sau Safari 7.0.1 (pe OS X 10.9 Mavericks), sau să utilizați cea mai recentă versiune de Mozilla Firefox, Google Chrome, sau Opera."
+  },
+  "firstRun_share": {
+    "message": "Spuneți prietenilor dumneavoastră"
+  },
+  "firstRun_share_headline": {
+    "message": "<a>Ajutați-ne</a> în a îmbunătăți web-ul"
+  },
+  "firstRun_title": {
+    "message": "Adblock Plus a fost instalat"
+  },
+  "firstRun_toggle_off": {
+    "message": "OFF"
+  },
+  "firstRun_toggle_on": {
+    "message": "ON"
+  },
+  "found_a_bug": {
+    "message": "Ai gasit o eroare? Dorești să traduci Adblock Plus în limba ta?  <a>scrie o cerere aici</a>."
+  },
+  "general": {
+    "message": "General"
+  },
+  "global_remove_subscription_warning": {
+    "message": "Sigur doriţi să îndepărtaţi această subscriere?"
+  },
+  "global_subscription_invalid_location": {
+    "message": "Locaţia pentru filtre nu este validă"
+  },
+  "last_updated_at": {
+    "message": "Ultima actualizare la ora $time$ pe data $date$",
+    "placeholders": {
+      "date": {
+        "content": "$2"
+      },
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "last_updated_at_today": {
+    "message": "Ultima actualizare la ora $time$ azi",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "name": {
+    "message": "Adblock Plus"
+  },
+  "options": {
+    "message": "Opţiuni Adblock Plus"
+  },
+  "options_short": {
+    "message": "Opţiuni"
+  },
+  "out_of_date_lists": {
+    "message": "Listele vechi sunt actualizate periodic."
+  },
+  "overlay_hideplaceholders_label": {
+    "message": "Ascunde indicatoarele elementelor blocate"
+  },
+  "remove_button": {
+    "message": "Șterge filtrul evidenţiat"
+  },
+  "show_block_element_menu": {
+    "message": "Arată 'Blochează Elementul' in meniul asociat unui obiect cu clic dreapta"
+  },
+  "show_icon": {
+    "message": "Afişează sigla în bara de adrese"
+  },
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> pe această pagină",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_label_total": {
+    "message": "<strong>$number$</strong> în total",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_over": {
+    "message": "peste $number$",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_download": {
+    "message": "Descarca Adblock Plus"
+  },
+  "stats_share_label_fb": {
+    "message": "Share pe Facebook"
+  },
+  "stats_share_label_gplus": {
+    "message": "Share pe Google+"
+  },
+  "stats_share_label_twitter": {
+    "message": "Share pe Twitter"
+  },
+  "stats_share_message": {
+    "message": "Am blocat $number$ reclame cu ABP.",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_title": {
+    "message": "Arată şi altora aceste numere"
+  },
+  "stats_show_iconnumber": {
+    "message": "Arată numerele în pictograma"
+  },
+  "stats_title": {
+    "message": "Reclame blocate"
+  },
+  "subscriptionSelection_location_label": {
+    "message": "Locaţia listei de filtre:"
+  },
+  "subscriptionSelection_subscriptionSelector_label": {
+    "message": "Alegeți un set de filtre din listă:"
+  },
+  "subscriptionSelection_title_label": {
+    "message": "Titlul abonamentului:"
+  },
+  "update_now": {
+    "message": "Actualizează acum"
+  },
+  "whitelisted_domains": {
+    "message": "Domenii permise"
+  }
+}

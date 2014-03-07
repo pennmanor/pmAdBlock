@@ -1,0 +1,290 @@
+{
+  "add": {
+    "message": "Dodaj"
+  },
+  "add_domain_button": {
+    "message": "Dodaj domenu"
+  },
+  "add_filter_button": {
+    "message": "Dodaj filter"
+  },
+  "add_filters_msg": {
+    "message": "Dodaj filter(e)?"
+  },
+  "add_your_own_filters": {
+    "message": "Dodaj vlastite filtere"
+  },
+  "apply_changes": {
+    "message": "Primjeni promjene"
+  },
+  "block_element": {
+    "message": "Blokiraj element"
+  },
+  "cancel": {
+    "message": "Poništi"
+  },
+  "clickhide_instructions": {
+    "message": "Nakon zatvaranja ovog skočnog prozora, kliknite (ili desni klik miša) na element na ovoj stranici."
+  },
+  "description_chrome": {
+    "message": "Besplatan alat koji blokira reklame za Chrome. Blokira naporne video reklame na YouTubu, Facebook reklame, transparente i još mnogo…"
+  },
+  "description_opera": {
+    "message": "Besplatan alat koji blokira reklame za Operu. Blokira naporne video reklame na YouTubu, Facebook reklame, transparente i još mnogo toga."
+  },
+  "description_safari": {
+    "message": "Besplatan alat koji blokira reklame za Safari. Blokira naporne video reklame na YouTubu, Facebook reklame, transparente i još mnogo toga."
+  },
+  "disable_inline": {
+    "message": "Onemogući tekstualne reklame iste linije"
+  },
+  "disabled_for_site": {
+    "message": "<strong>Onemogućeno</strong> na ovoj stranici"
+  },
+  "disabled_for_these_domains": {
+    "message": "Adblock Plus je onemogućen za domene na popisu ispod. Možete dodati domenu ili pomoću Adblock Plus ikone u adresnoj traci ili upisivanjem domene (ne URL-a) u polju ispod i klikom na tipku \"Dodaj domenu\"."
+  },
+  "easy_create_filter": {
+    "message": "Blokiraj element"
+  },
+  "edit_filters_raw": {
+    "message": "Uredi filtere kao raw tekst"
+  },
+  "enable_only_the": {
+    "message": "Omogućite samo popis filtra koji vam je potreban. Previše popisa filtra može učiniti vaš preglednik neupotrebljivim."
+  },
+  "enabled_for_site": {
+    "message": "<strong>Omogućeno</strong> na ovoj stranici"
+  },
+  "filter_lists": {
+    "message": "Popisi filtera"
+  },
+  "filter_must_follow_syntax": {
+    "message": "Vaši filtri moraju slijediti <a>Adblock Plus filter sintaksa</a>."
+  },
+  "filters_acceptableAds2_label": {
+    "message": "Dopusti neke nenametljive reklame"
+  },
+  "filters_addSubscriptionAdd_label": {
+    "message": "Dodaj"
+  },
+  "filters_addSubscriptionOther_label": {
+    "message": "Dodaj drugu pretplatu"
+  },
+  "filters_addSubscription_label": {
+    "message": "Dodaj pretplatu filtera"
+  },
+  "filters_readMore_label": {
+    "message": "Pročitaj više"
+  },
+  "filters_subscription_delete_label": {
+    "message": "Obriši"
+  },
+  "filters_subscription_enabled_label": {
+    "message": "Omogućen"
+  },
+  "filters_subscription_lastDownload_checksumMismatch": {
+    "message": "Neuspješno, neusklađenost checksum-a."
+  },
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "Neuspješno, greška preuzimanja"
+  },
+  "filters_subscription_lastDownload_inProgress": {
+    "message": "Preuzimanje..."
+  },
+  "filters_subscription_lastDownload_invalidData": {
+    "message": "Neuspješno, neispravan popis filtera"
+  },
+  "filters_subscription_lastDownload_invalidURL": {
+    "message": "Neuspješno, neispravna adresa"
+  },
+  "filters_viewList_label": {
+    "message": "Pogledaj popis"
+  },
+  "firstRun_acceptableAdsExplanation": {
+    "message": "Želimo podupirati web stranice da koriste pošteno, nenametljivo reklamiranje. Zato smo uspostavili <a>točne smjernice</a> za prepoznavanje reklama, koje su prikazane prema uobičajenim postavkama. Ako još uvijek želite blokirati svaku reklamu to možete <a>onemogućiti</a> za nekoliko sekuondis."
+  },
+  "firstRun_acceptableAdsHeadline": {
+    "message": "Naporni oglasi će sada biti blokirani"
+  },
+  "firstRun_contributor_credits": {
+    "message": "Zasluge doprinositelja"
+  },
+  "firstRun_dataCorruptionWarning": {
+    "message": "Nastavlja li se ova stranica pojavljivati? <a>Kliknite ovdje!</a>"
+  },
+  "firstRun_donate": {
+    "message": "doniraj"
+  },
+  "firstRun_donate_label": {
+    "message": "Podrži naš projekt"
+  },
+  "firstRun_feature_malware": {
+    "message": "Blokiranje malwara"
+  },
+  "firstRun_feature_malware_description": {
+    "message": "Učinite vaše surfanje Internetom sigurnijim blokiranjem poznatih malvare domena."
+  },
+  "firstRun_feature_show_expanded": {
+    "message": "uključi značajke"
+  },
+  "firstRun_feature_show_overview": {
+    "message": "Prikaži pregled"
+  },
+  "firstRun_feature_social": {
+    "message": "Ukloni tipke društvenih mreža"
+  },
+  "firstRun_feature_social_description": {
+    "message": "Automatski oslobodi svoje internetsko iskustvo od napornih gumba kao što su Facebook Like gumb, koji se pojavljuju na stranicama i prate vaše ponašanje."
+  },
+  "firstRun_feature_tracking": {
+    "message": "Onemogući praćenje"
+  },
+  "firstRun_feature_tracking_description": {
+    "message": "Surfaj privatno s isključenim praćenjem - skrivajući se od oglasnih tvrtki koje prate tvoj svaki potez."
+  },
+  "firstRun_features": {
+    "message": "Adblock Plus može učiniti mnogo više nego samo blokirati reklame"
+  },
+  "firstRun_legacySafariWarning": {
+    "message": "Koristite stariju inačicu Safarija koja ne podržava Adblock Plus. Možda neće ispravno raditi ili može narušiti korisničko iskustvo na nekim web stranicama. Strogo vam preporučamo da nadogradite na Safari 6.1.1 ili višu inačicu (dostupnu za Mac OS X 10.8 Mountain Lion), ili Safari 7.0.1 ili višu inačicu (za OS X 10.9 Mavericks), ili da koristite najnoviju inačicu Mozilla Firefoxa, Google Chroma ili Opere."
+  },
+  "firstRun_share": {
+    "message": "Reci svojim prijateljima"
+  },
+  "firstRun_share_headline": {
+    "message": "<a>Pomognite nam</a> pri stvaranju Interneta boljim mjestom"
+  },
+  "firstRun_title": {
+    "message": "Adblock Plus je instaliran"
+  },
+  "firstRun_toggle_off": {
+    "message": "ISKLJUČI"
+  },
+  "firstRun_toggle_on": {
+    "message": "UKLJUČI"
+  },
+  "found_a_bug": {
+    "message": "Pronašli ste grešku? Želite prevesti Adblock Plus na svoj jezik? <a>Podnesite zahtjev ovdje</a>."
+  },
+  "general": {
+    "message": "Općenito"
+  },
+  "global_remove_subscription_warning": {
+    "message": "Želite li stvarno ukloniti ovu pretplatu?"
+  },
+  "global_subscription_invalid_location": {
+    "message": "Lokacija popisa filtera nije niti valjana web adresa niti naziv datoteke."
+  },
+  "last_updated_at": {
+    "message": "Posljednji put je ažurirano $date$ u $time$",
+    "placeholders": {
+      "date": {
+        "content": "$2"
+      },
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "last_updated_at_today": {
+    "message": "Posljednj put je ažurirano danas u $time$",
+    "placeholders": {
+      "time": {
+        "content": "$1"
+      }
+    }
+  },
+  "name": {
+    "message": "Adblock Plus"
+  },
+  "options": {
+    "message": "Adblock Plus mogućnosti"
+  },
+  "options_short": {
+    "message": "Mogućnosti"
+  },
+  "out_of_date_lists": {
+    "message": "Zastarjeli popisi redovito se ažuriraju."
+  },
+  "overlay_hideplaceholders_label": {
+    "message": "Sakrij rezervirana mjesta blokiranih elemenata"
+  },
+  "remove_button": {
+    "message": "Ukloni odabrano"
+  },
+  "show_block_element_menu": {
+    "message": "Prikaži 'Blokiraj element' stavku izbornika desnog klika"
+  },
+  "show_icon": {
+    "message": "Prikaži ikonu u adresnoj traci"
+  },
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> na ovoj stranici",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_label_total": {
+    "message": "<strong>$number$</strong> ukupno",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_over": {
+    "message": "preko $number$",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_download": {
+    "message": "Preuzmi Adblock Plus"
+  },
+  "stats_share_label_fb": {
+    "message": "Podijelite na Facebooku"
+  },
+  "stats_share_label_gplus": {
+    "message": "Podijelite na Google+"
+  },
+  "stats_share_label_twitter": {
+    "message": "Podijelite na Twitteru"
+  },
+  "stats_share_message": {
+    "message": "Blokirao sam $number$ reklama i pratitelja zahvaljujući Adblock Plusu.",
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  },
+  "stats_share_title": {
+    "message": "Dijeli ove brojeve"
+  },
+  "stats_show_iconnumber": {
+    "message": "Prikaži broj na ikoni"
+  },
+  "stats_title": {
+    "message": "Reklama blokirana"
+  },
+  "subscriptionSelection_location_label": {
+    "message": "Lokacija popisa filtera:"
+  },
+  "subscriptionSelection_subscriptionSelector_label": {
+    "message": "Molimo odaberite pretplatu na filter sa popisa:"
+  },
+  "subscriptionSelection_title_label": {
+    "message": "Naslov pretplate:"
+  },
+  "update_now": {
+    "message": "Ažuriraj odmah"
+  },
+  "whitelisted_domains": {
+    "message": "Dopuštene domene"
+  }
+}
