@@ -1,0 +1,188 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BlockingFilter	utils.js	/^var BlockingFilter = filterClasses.BlockingFilter;$/;"	v
+DownloadableSubscription	utils.js	/^var DownloadableSubscription = subscriptionClasses.DownloadableSubscription;$/;"	v
+E	utils.js	/^function E(id)$/;"	f
+ElemHide	background.js	/^var ElemHide = require("elemHide").ElemHide;$/;"	v
+Filter	popup.js	/^var Filter = require("filterClasses").Filter;$/;"	v
+Filter	utils.js	/^var Filter = filterClasses.Filter;$/;"	v
+FilterNotifier	options.js	/^var FilterNotifier = require("filterNotifier").FilterNotifier;$/;"	v
+FilterNotifier	stats.js	/^  var FilterNotifier = require("filterNotifier").FilterNotifier;$/;"	v
+FilterNotifier	utils.js	/^var FilterNotifier = require("filterNotifier").FilterNotifier;$/;"	v
+FilterNotifier	webrequest.js	/^var FilterNotifier = require("filterNotifier").FilterNotifier;$/;"	v
+FilterStorage	background.js	/^var FilterStorage = require("filterStorage").FilterStorage;$/;"	v
+FilterStorage	options.js	/^var FilterStorage = require("filterStorage").FilterStorage;$/;"	v
+FilterStorage	popup.js	/^var FilterStorage = require("filterStorage").FilterStorage;$/;"	v
+FilterStorage	utils.js	/^var FilterStorage = require("filterStorage").FilterStorage;$/;"	v
+Notification	background.js	/^var Notification = require("notification").Notification;$/;"	v
+Notification	notification.js	/^var Notification = require("notification").Notification;$/;"	v
+Prefs	background.js	/^var Prefs = require("prefs").Prefs;$/;"	v
+Prefs	options.js	/^var Prefs = require("prefs").Prefs;$/;"	v
+Prefs	popup.js	/^var Prefs = require("prefs").Prefs;$/;"	v
+Prefs	stats.js	/^  var Prefs = require("prefs").Prefs;$/;"	v
+Prefs	utils.js	/^var Prefs = require("prefs").Prefs;$/;"	v
+SELECTOR_GROUP_SIZE	include.preload.js	/^var SELECTOR_GROUP_SIZE = 20;$/;"	v
+Services	utils.js	/^var Services = backgroundPage.Services;$/;"	v
+Subscription	utils.js	/^var Subscription = subscriptionClasses.Subscription;$/;"	v
+Synchronizer	background.js	/^var Synchronizer = require("synchronizer").Synchronizer;$/;"	v
+Synchronizer	options.js	/^var Synchronizer = require("synchronizer").Synchronizer;$/;"	v
+Synchronizer	utils.js	/^var Synchronizer = require("synchronizer").Synchronizer;$/;"	v
+Utils	background.js	/^var Utils = require("utils").Utils;$/;"	v
+Utils	notification.js	/^var Utils = require("utils").Utils;$/;"	v
+Utils	options.js	/^var Utils = require("utils").Utils;$/;"	v
+Utils	utils.js	/^var Utils = require("utils").Utils;$/;"	v
+activeNotification	background.js	/^var activeNotification = null;$/;"	v
+activeNotification.onClicked	background.js	/^{$/;"	f
+addElementOverlay	include.postload.js	/^function addElementOverlay(elt) {$/;"	f
+addFilters	block.js	/^function addFilters()$/;"	f
+addSubscription	background.js	/^function addSubscription(prevVersion)$/;"	f
+addSubscription	options.js	/^function addSubscription()$/;"	f
+allowAcceptableAds	options.js	/^function allowAcceptableAds(event)$/;"	f
+appendToListBox	options.js	/^function appendToListBox(boxId, text)$/;"	f
+backgroundPage	notification.js	/^var backgroundPage = ext.backgroundPage.getWindow();$/;"	v
+backgroundPage	popup.js	/^var backgroundPage = ext.backgroundPage.getWindow();$/;"	v
+backgroundPage	utils.js	/^var backgroundPage = ext.backgroundPage.getWindow();$/;"	v
+checkCollapse	include.preload.js	/^function checkCollapse(event)$/;"	f
+checkPotentialPopup	popupBlocker.js	/^function checkPotentialPopup(tabId, url, opener)$/;"	f
+clickHideFilters	include.postload.js	/^var clickHideFilters = null;$/;"	v
+clickHideFiltersDialog	include.postload.js	/^var clickHideFiltersDialog = null;$/;"	v
+clickHideFiltersDialog.onmouseout	include.postload.js	/^  clickHideFiltersDialog.style.top = "50px";$/;"	f
+clickHideFiltersDialog.onmouseover	include.postload.js	/^  }$/;"	f
+clickHide_activate	include.postload.js	/^function clickHide_activate() {$/;"	f
+clickHide_activated	include.postload.js	/^var clickHide_activated = false;$/;"	v
+clickHide_deactivate	include.postload.js	/^function clickHide_deactivate()$/;"	f
+clickHide_elementClickHandler	include.postload.js	/^function clickHide_elementClickHandler(ev) {$/;"	f
+clickHide_filters	include.postload.js	/^var clickHide_filters = null;$/;"	v
+clickHide_keyDown	include.postload.js	/^function clickHide_keyDown(e)$/;"	f
+clickHide_mouseClick	include.postload.js	/^function clickHide_mouseClick(e)$/;"	f
+clickHide_mouseOut	include.postload.js	/^function clickHide_mouseOut(e)$/;"	f
+clickHide_mouseOver	include.postload.js	/^function clickHide_mouseOver(e)$/;"	f
+clickHide_rulesPending	include.postload.js	/^function clickHide_rulesPending() {$/;"	f
+clickHide_showDialog	include.postload.js	/^function clickHide_showDialog(left, top, filters)$/;"	f
+closeDialog	block.js	/^function closeDialog(success)$/;"	f
+createShareLink	stats.js	/^  function createShareLink(network, blockedCount)$/;"	f
+currentElement	include.postload.js	/^var currentElement = null;$/;"	v
+currentElement_backgroundColor	include.postload.js	/^var currentElement_backgroundColor;$/;"	v
+currentElement_boxShadow	include.postload.js	/^var currentElement_boxShadow = null;$/;"	v
+currentTab	stats.js	/^  var currentTab;$/;"	v
+defaultMatcher	background.js	/^var defaultMatcher = require("matcher").defaultMatcher;$/;"	v
+defaultMatcher	utils.js	/^var defaultMatcher = require("matcher").defaultMatcher;$/;"	v
+delayedSubscriptionSelection	options.js	/^var delayedSubscriptionSelection = null;$/;"	v
+doAddSubscription	options.js	/^function doAddSubscription(url, title, homepage)$/;"	f
+dragCoords	block.js	/^var dragCoords = null;$/;"	v
+elemhideElt	include.preload.js	/^var elemhideElt = null;$/;"	v
+filterClasses	utils.js	/^var filterClasses = require("filterClasses");$/;"	v
+findSubscriptionElement	options.js	/^function findSubscriptionElement(subscription)$/;"	f
+function.onHeadersReceived	webrequest.js	/^  function onHeadersReceived(details)$/;"	f
+getAbsolutePosition	include.postload.js	/^function getAbsolutePosition(elt) {$/;"	f
+getDocLinks	notification.js	/^function getDocLinks(notification)$/;"	f
+getElementURL	include.postload.js	/^function getElementURL(elt) {$/;"	f
+getStats	stats.js	/^  var getStats = require("stats").getStats;$/;"	v
+highlightElements	include.postload.js	/^function highlightElements(selectorString) {$/;"	f
+highlightedElementsBGColors	include.postload.js	/^var highlightedElementsBGColors = null;$/;"	v
+highlightedElementsBoxShadows	include.postload.js	/^var highlightedElementsBoxShadows = null;$/;"	v
+highlightedElementsSelector	include.postload.js	/^var highlightedElementsSelector = null;$/;"	v
+i18n	i18n.js	/^var i18n;$/;"	v
+iconAnimation._icons	iconAnimation.js	/^iconAnimation = {$/;"	p
+importOldData	background.js	/^function importOldData()$/;"	f
+importRawFiltersText.seenFilter.__proto__	options.js	/^  var seenFilter = {__proto__: null};$/;"	p
+importantNotifications.filter.added	webrequest.js	/^var importantNotifications = {$/;"	p
+importantNotifications.filter.disabled	webrequest.js	/^  'filter.removed': true,$/;"	p
+importantNotifications.filter.removed	webrequest.js	/^  'filter.added': true,$/;"	p
+importantNotifications.load	webrequest.js	/^  'subscription.updated': true,$/;"	p
+importantNotifications.subscription.added	webrequest.js	/^  'filter.disabled': true,$/;"	p
+importantNotifications.subscription.disabled	webrequest.js	/^  'subscription.removed': true,$/;"	p
+importantNotifications.subscription.removed	webrequest.js	/^  'subscription.added': true,$/;"	p
+importantNotifications.subscription.updated	webrequest.js	/^  'subscription.disabled': true,$/;"	p
+imports	popup.js	/^var imports = ["require", "extractHostFromURL", "openOptions"];$/;"	v
+init	block.js	/^function init()$/;"	f
+init	include.preload.js	/^function init()$/;"	f
+initCheckbox	options.js	/^function initCheckbox(id)$/;"	f
+initSocialLinks	firstRun.js	/^  function initSocialLinks()$/;"	f
+insertMessage	notification.js	/^function insertMessage(element, text, links)$/;"	f
+isFirstRun	background.js	/^var isFirstRun = false;$/;"	v
+isSubscriptionEnabled	firstRun.js	/^  function isSubscriptionEnabled(featureSubscription)$/;"	f
+isWhitelisted	popup.js	/^var isWhitelisted = require("whitelisting").isWhitelisted;$/;"	v
+lastRightClickEvent	include.postload.js	/^var lastRightClickEvent = null;$/;"	v
+loadOptions	options.js	/^function loadOptions()$/;"	f
+loadRecommendations	options.js	/^function loadRecommendations()$/;"	f
+noStyleRulesHosts	background.js	/^var noStyleRulesHosts = ["mail.google.com", "mail.yahoo.com", "www.google.com"];$/;"	v
+notificationButtonClick	background.js	/^function notificationButtonClick(id, index)$/;"	f
+onBeforeRequest	webrequest.js	/^function onBeforeRequest(url, type, tab, frame)$/;"	f
+onDOMLoaded	firstRun.js	/^  function onDOMLoaded()$/;"	f
+onDOMLoaded.filterListener	firstRun.js	/^    var filterListener = function(action)$/;"	f
+onDrag	block.js	/^function onDrag(event)$/;"	f
+onDragEnd	block.js	/^function onDragEnd(event)$/;"	f
+onDragStart	block.js	/^function onDragStart(event)$/;"	f
+onFilterChange	options.js	/^function onFilterChange(action, item, param1, param2)$/;"	f
+onFilterChange	webrequest.js	/^function onFilterChange()$/;"	f
+onFilterChangeTimeout	webrequest.js	/^var onFilterChangeTimeout = null;$/;"	v
+onKeyDown	block.js	/^function onKeyDown(event)$/;"	f
+onLoad	stats.js	/^  function onLoad()$/;"	f
+onMessage	options.js	/^function onMessage(msg)$/;"	f
+onNotify	stats.js	/^  function onNotify(action, item)$/;"	f
+onSocialLinkClick	firstRun.js	/^  function onSocialLinkClick(event)$/;"	f
+onUnload	stats.js	/^  function onUnload()$/;"	f
+openFilters	firstRun.js	/^  function openFilters()$/;"	f
+openNotificationLinks	background.js	/^function openNotificationLinks() $/;"	f
+openOptions	background.js	/^function openOptions(callback)$/;"	f
+openSharePopup	firstRun.js	/^  function openSharePopup(url)$/;"	f
+openSharePopup.popupLoadListener	firstRun.js	/^    var popupLoadListener = function()$/;"	f
+openSharePopup.popupMessageListener	firstRun.js	/^    var popupMessageListener = function(event)$/;"	f
+option._data.title	options.js	/^      option._data = {$/;"	p
+populateList	options.js	/^function populateList(id, entries)$/;"	f
+prepareNotificationIconAndPopup	background.js	/^function prepareNotificationIconAndPopup()$/;"	f
+refreshIconAndContextMenu	background.js	/^function refreshIconAndContextMenu(tab)$/;"	f
+reloadFilters	options.js	/^function reloadFilters()$/;"	f
+removeDeprecatedOptions	background.js	/^function removeDeprecatedOptions()$/;"	f
+removeFromListBox.addTypedFilter	options.js	/^function addTypedFilter(event)$/;"	f
+removeFromListBox.addWhitelistDomain	options.js	/^function addWhitelistDomain(event)$/;"	f
+removeFromListBox.removeSelectedExcludedDomain	options.js	/^function removeSelectedExcludedDomain()$/;"	f
+removeFromListBox.removeSelectedFilters	options.js	/^function removeSelectedFilters()$/;"	f
+removeFromListBox.toggleFiltersInRawFormat	options.js	/^function toggleFiltersInRawFormat(event)$/;"	f
+request.onload	options.js	/^  request.open("GET", "subscriptions.xml");$/;"	f
+require	notification.js	/^var require = backgroundPage.require;$/;"	v
+require	options.js	/^var require = ext.backgroundPage.getWindow().require;$/;"	v
+require	stats.js	/^  var require = backgroundPage.require;$/;"	v
+require	utils.js	/^var require = backgroundPage.require;$/;"	v
+seenDataCorruption	background.js	/^var seenDataCorruption = false;$/;"	v
+setContextMenu	background.js	/^function setContextMenu()$/;"	f
+setElemhideCSSRules	include.preload.js	/^function setElemhideCSSRules(selectors)$/;"	f
+setElemhideCSSRules.setRules	include.preload.js	/^  function setRules()$/;"	f
+setLinks	firstRun.js	/^  function setLinks(id)$/;"	f
+setToggleSubscriptionButton	firstRun.js	/^  function setToggleSubscriptionButton(featureSubscription)$/;"	f
+share	stats.js	/^  function share(ev)$/;"	f
+shareLinks.facebook	stats.js	/^  var shareLinks = {$/;"	p
+shareURL	stats.js	/^  var shareURL = "https:\/\/adblockplus.org\/";$/;"	v
+showNotification	background.js	/^function showNotification(notification)$/;"	f
+showUserFilters	options.js	/^function showUserFilters()$/;"	f
+startSubscriptionSelection	options.js	/^function startSubscriptionSelection(title, url)$/;"	f
+subscriptionClasses	utils.js	/^var subscriptionClasses = require("subscriptionClasses");$/;"	v
+tab	popup.js	/^var tab = null;$/;"	v
+toggleIconNumber	stats.js	/^  function toggleIconNumber()$/;"	f
+typeMap.audio	include.preload.js	/^  "input": "IMAGE",$/;"	p
+typeMap.frame	include.preload.js	/^  "video": "MEDIA",$/;"	p
+typeMap.iframe	include.preload.js	/^  "frame": "SUBDOCUMENT",$/;"	p
+typeMap.img	include.preload.js	/^var typeMap = {$/;"	p
+typeMap.input	include.preload.js	/^  "img": "IMAGE",$/;"	p
+typeMap.video	include.preload.js	/^  "audio": "MEDIA",$/;"	p
+unhighlightElements	include.postload.js	/^function unhighlightElements() {$/;"	f
+unloadOptions	options.js	/^function unloadOptions()$/;"	f
+updateStats	stats.js	/^  function updateStats()$/;"	f
+updateSubscriptionInfo	options.js	/^function updateSubscriptionInfo(element)$/;"	f
+updateSubscriptionSelection	options.js	/^function updateSubscriptionSelection()$/;"	f
+updateToggleButton	firstRun.js	/^  function updateToggleButton(feature, isEnabled)$/;"	f
+var.map.synchronize_checksum_mismatch	options.js	/^      "synchronize_invalid_data": "filters_subscription_lastDownload_invalidData",$/;"	p
+var.map.synchronize_connection_error	options.js	/^      "synchronize_invalid_url": "filters_subscription_lastDownload_invalidURL",$/;"	p
+var.map.synchronize_invalid_data	options.js	/^      "synchronize_connection_error": "filters_subscription_lastDownload_connectionError",$/;"	p
+var.map.synchronize_invalid_url	options.js	/^    {$/;"	p
+var.opts.buttons	background.js	/^        iconUrl: iconUrl,$/;"	p
+var.opts.iconUrl	background.js	/^        message: message,$/;"	p
+var.opts.message	background.js	/^        title: title,$/;"	p
+var.opts.title	background.js	/^        type: "basic",$/;"	p
+var.opts.type	background.js	/^      var opts = {$/;"	p
+var.popupCloseListener	firstRun.js	/^        var popupCloseListener = function()$/;"	f

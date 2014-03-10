@@ -208,7 +208,8 @@ function addSubscription(prevVersion)
   {
     ext.windows.getLastFocused(function(win)
     {
-      win.openTab(ext.getURL("firstRun.html"));
+      // Do not notify user
+      // win.openTab(ext.getURL("firstRun.html"));
     });
   }
 
