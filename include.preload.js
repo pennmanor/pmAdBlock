@@ -1,6 +1,6 @@
 /*
  * This file is part of Adblock Plus <http://adblockplus.org/>,
- * Copyright (C) 2006-2013 Eyeo GmbH
+ * Copyright (C) 2006-2014 Eyeo GmbH
  *
  * Adblock Plus is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
@@ -93,7 +93,7 @@ function checkCollapse(event)
           if (tag == "frame")
             target.style.setProperty("visibility", "hidden", "!important");
           else
-            target.parentNode.removeChild(target);
+            target.style.setProperty("display", "none", "!important");
         }
       }
     );

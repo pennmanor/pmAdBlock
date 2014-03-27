@@ -2,7 +2,7 @@
 
 <!--
   - This file is part of the Adblock Plus web scripts,
-  - Copyright (C) 2006-2013 Eyeo GmbH
+  - Copyright (C) 2006-2014 Eyeo GmbH
   -
   - Adblock Plus is free software: you can redistribute it and/or modify
   - it under the terms of the GNU General Public License version 3 as
@@ -36,12 +36,12 @@
                 homepage="http://stanev.org/abp/"
                 prefixes="bg"
                 author="Александър Станев"/>
-  <subscription title="ChinaList+EasyList"
+  <subscription title="EasyList China+EasyList"
                 specialization="中文"
-                url="https://easylist-downloads.adblockplus.org/chinalist+easylist.txt"
-                homepage="https://code.google.com/p/adblock-chinalist/"
+                url="https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
+                homepage="http://abpchina.org/forum/"
                 prefixes="zh"
-                author="Gythialy"/>
+                author="John, Li, Jiefei"/>
   <subscription title="EasyList Czech and Slovak+EasyList"
                 specialization="čeština, slovenčina"
                 url="https://easylist-downloads.adblockplus.org/easylistczechslovak+easylist.txt"
@@ -60,18 +60,18 @@
                 homepage="https://easylist.adblockplus.org/"
                 prefixes="de"
                 author="MonztA, Famlam"/>
+  <subscription title="EasyList Hebrew+EasyList"
+                specialization="עברית"
+                url="https://easylist-downloads.adblockplus.org/israellist+easylist.txt"
+                homepage="https://github.com/AdBlockPlusIsrael/EasyListHebrew"
+                prefixes="he"
+                author="BsT"/>
   <subscription title="EasyList Italy+EasyList"
                 specialization="italiano"
                 url="https://easylist-downloads.adblockplus.org/easylistitaly+easylist.txt"
                 homepage="https://easylist.adblockplus.org/"
                 prefixes="it"
                 author="Khrin"/>
-  <subscription title="IsraelList+EasyList"
-                specialization="עברית"
-                url="https://easylist-downloads.adblockplus.org/israellist+easylist.txt"
-                homepage="https://github.com/AdBlockPlusIsrael/EasyListHebrew"
-                prefixes="he"
-                author="BsT, dvd848"/>
   <subscription title="Latvian List+EasyList"
                 specialization="latviešu valoda"
                 url="https://easylist-downloads.adblockplus.org/latvianlist+easylist.txt"

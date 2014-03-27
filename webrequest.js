@@ -1,6 +1,6 @@
 /*
  * This file is part of Adblock Plus <http://adblockplus.org/>,
- * Copyright (C) 2006-2013 Eyeo GmbH
+ * Copyright (C) 2006-2014 Eyeo GmbH
  *
  * Adblock Plus is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
@@ -87,6 +87,10 @@ if (require("info").platform == "chromium")
       if (header.name.toLowerCase() == "x-adblock-key" && header.value)
         processKeyException(header.value, tab, frame);
     }
+
+    var notificationToShow = Notification.getNextToShow(details.url);
+    if (notificationToShow)
+      showNotification(notificationToShow);
   }
 
   chrome.webRequest.onHeadersReceived.addListener(onHeadersReceived, {urls: ["<all_urls>"]}, ["responseHeaders"]);

@@ -55,7 +55,6 @@
   "icons": {
     "128": "icons/abp-128.png",
     "16": "icons/abp-16.png",
-    "19": "icons/abp-19.png",
     "32": "icons/abp-32.png",
     "48": "icons/abp-48.png"
   },
@@ -74,7 +73,7 @@
     "unlimitedStorage",
     "notifications"
   ],
-  "version": "1.0",
+  "version": "1.1",
   "web_accessible_resources": [
     "block.html",
     "icons/abp-128.png"
